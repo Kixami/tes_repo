@@ -1,2 +1,2 @@
-telur
-tepung
+telur 15
+tepung 1kg
