@@ -1,2 +1,2 @@
-telur
-tepung
+telur 10 butir
+tepung 500 gram
